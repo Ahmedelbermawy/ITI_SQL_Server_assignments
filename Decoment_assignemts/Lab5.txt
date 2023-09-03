@@ -1,0 +1,23 @@
+Use Company_SD
+
+Index   
+1.	Create an index on column (Hiredate) that allow u to cluster the data in the table Department. What will happen?  
+2.	Create an index that allows you to enter unique ages in the student table. What will happen?  
+3.	create a non-clustered index on column(Dept_Manager) that allows you to enter a unique instructor id in the table Department.  
+
+
+
+Use Cursor For the following Problems 
+
+Problem 1: Calculate Total Salary for Each Department
+Description: Calculate the total salary for each department and display the department name along with the total salary
+
+Problem 2: Update Employee Salaries Based on Department
+Description: Update employee salaries by increasing them by a certain percentage for a specific department.
+
+Problem 3: Calculate Average Project Hours per Employee
+Description: Calculate the average number of hours each employee has worked on projects, and display their names along with the calculated average hours
+
+Problem 4:  in employee table Check if Gender='M' add 'Mr Befor Employee name    
+else if Gender='F' add Mrs Befor Employee name  then display all names  
+use cursor for update
